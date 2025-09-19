@@ -7,7 +7,7 @@ I'm a Software Engineer passionate about web engineering, crafting Interactive U
 **Here's a quick summary about me**:
 
 - 🌱 I'm currently working with TypeScript, React, and Node.js.
-- 🌱 I'm currently learning Java and Rust.
+- 🌱 I'm currently learning Java.
 - 👯 I'm looking to collaborate on web projects.
 - 😊 I'm looking for help with open-source projects, hackathons, and mid-level opportunities.
 - 💼 Job interests: Software Engineer, Front-End Engineer, Full-Stack engineer (Mid level).
