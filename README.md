@@ -11,7 +11,7 @@ I'm a Software Engineer passionate about web engineering, crafting Interactive U
 - 👯 I'm looking to collaborate on web projects.
 - 😊 I'm looking for help with open-source projects, hackathons, and mid-level opportunities.
 - 💼 Job interests: Software Engineer, Front-End Engineer, Full-Stack engineer (Mid level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1ReGRgrl2cru3BKyI2-cQ4fG1TS5_MRla/view?usp=sharing) and contact me by emailing ikemnomso@gmail.com
+- 📫 You can [view my resume](https://docs.google.com/document/d/1mn8F5h5cJ-s-mfB5WFeaROBY9GtrrNITHdhjv0g6VKI/edit?usp=drive_link) and contact me by emailing ikemnomso@gmail.com
 
 ---
 
