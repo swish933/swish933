@@ -15,5 +15,4 @@ I'm a Software Engineer passionate about web engineering, crafting Interactive U
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=swish933&show_icons=true&include_all_commits=true&hide_border=true" alt="Nomso's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swish933&langs_count=8&layout=compact&hide_border=true" alt="Nomso's GitHub stats" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
