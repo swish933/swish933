@@ -15,3 +15,4 @@ I'm a Software Engineer passionate about web engineering, crafting Interactive U
 
 ---
 
+![](./profile-3d-contrib/profile-green-animate.svg)
