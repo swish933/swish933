@@ -7,12 +7,11 @@ I'm a Software Engineer passionate about web engineering, crafting Interactive U
 **Here's a quick summary about me**:
 
 - 🌱 I'm currently working with TypeScript, React/Next.js and Node.js.
-- 🌱 I'm currently learning C#.
 - 👯 I'm looking to collaborate on web projects.
 - 😊 I'm looking for help with open-source projects, hackathons, and mid-level opportunities.
-- 💼 Job interests: Software Engineer, Front-End Engineer, Full-Stack Engineer (Mid-level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1mn8F5h5cJ-s-mfB5WFeaROBY9GtrrNITHdhjv0g6VKI/edit?usp=drive_link) and contact me by emailing ikemnomso@gmail.com
+- 💼 Job interests: Software Engineer, Front-End Engineer(Mid-level).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1CX7-kBnuzorwVnG_Eho25bq49yzIHMhz/view?usp=sharing) and contact me by emailing ikemnomso@gmail.com
 
 ---
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
